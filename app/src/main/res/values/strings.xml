@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crossword Puzzle</string>
+
+    <string-array name="grid_size">
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+        <item>6 x 6</item>
+    </string-array>
+
+</resources>
